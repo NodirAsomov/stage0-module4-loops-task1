@@ -31,27 +31,23 @@ public class RepeatIsBad {
         RepeatIsBad repeatIsBad20=new RepeatIsBad();
         repeatIsBad1.repeatIsBad();
         repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-        repeatIsBad2.repeatIsBad();
-        repeatIsBad1.repeatIsBad();
-
-
-
+        repeatIsBad3.repeatIsBad();
+        repeatIsBad4.repeatIsBad();
+        repeatIsBad5.repeatIsBad();
+        repeatIsBad6.repeatIsBad();
+        repeatIsBad7.repeatIsBad();
+        repeatIsBad8.repeatIsBad();
+        repeatIsBad9.repeatIsBad();
+        repeatIsBad10.repeatIsBad();
+        repeatIsBad11.repeatIsBad();
+        repeatIsBad12.repeatIsBad();
+        repeatIsBad13.repeatIsBad();
+        repeatIsBad14.repeatIsBad();
+        repeatIsBad15.repeatIsBad();
+        repeatIsBad16.repeatIsBad();
+        repeatIsBad17.repeatIsBad();
+        repeatIsBad18.repeatIsBad();
+        repeatIsBad19.repeatIsBad();
+        repeatIsBad20.repeatIsBad();
     }
 }
