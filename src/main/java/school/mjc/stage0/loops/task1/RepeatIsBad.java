@@ -6,7 +6,8 @@ public class RepeatIsBad {
     public void repeatIsBad() {
 
         System.out.print( "writing the same code doesn't have much impact, and it's also time-consuming\n");
-        repeatIsBad();}
+        repeatIsBad();
+    }
 
 
 
