@@ -4,9 +4,13 @@ public class RepeatIsBad {
 
     @SuppressWarnings("java:S106")
     public void repeatIsBad() {
+        String s1 ="writing the same code doesn't have much impact, and it's also time-consuming\n";
+        String s3 = s1 + s1 + s1;
+        String s10 = s3 + s3 + s3 + s1;
+        String s20 = s10 + s10;
 
-        System.out.print( "writing the same code doesn't have much impact, and it's also time-consuming\n");
-        repeatIsBad();
+        System.out.print(s20);
+
     }
 
 
